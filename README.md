@@ -1,2 +1,2 @@
 # Alura
-Projeto 4° bomestre
+Projeto 4° bimestre
